@@ -7,3 +7,10 @@ section{
   margin-right: auto;
   width: 900px;
 }
+
+h1{
+  text-align: center;
+  border-bottom: 3px solid black;
+  padding-bottom: 10px;
+  font-size: 3em;
+}
